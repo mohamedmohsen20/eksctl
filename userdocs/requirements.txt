@@ -2,3 +2,4 @@ mkdocs                  == 1.1
 mkdocs-material         == 5.3.3
 mkdocs-redirects
 pymdown-extensions      == 7.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
